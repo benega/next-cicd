@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <p>Test</p>
+          <p>Test 2</p>
         </div>
       </main>
     </>
